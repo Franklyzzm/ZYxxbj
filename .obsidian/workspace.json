@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "304fd3aa26c9d90e",
+        "id": "24ac7ffb43687ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f42371eec80ccf",
+            "id": "a219962e7119a0ce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,14 +130,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c1f42371eec80ccf",
-  "lastOpenFiles": []
+  "active": "a219962e7119a0ce",
+  "lastOpenFiles": [
+    "README.md",
+    "zjdcjs/ZJDCjs.md",
+    "zjdcjs/zjdc01.md",
+    "未命名.canvas",
+    "2023-10-04.md"
+  ]
 }
