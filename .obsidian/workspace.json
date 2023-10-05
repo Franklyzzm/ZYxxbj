@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24ac7ffb43687ee9",
+        "id": "9df32123fbbc2756",
         "type": "tabs",
         "children": [
           {
-            "id": "a219962e7119a0ce",
+            "id": "ca96e5c870cc8e8d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,12 +121,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,11 +138,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a219962e7119a0ce",
+  "active": "c11c10048c03e8f1",
   "lastOpenFiles": [
-    "README.md",
-    "zjdcjs/ZJDCjs.md",
     "zjdcjs/zjdc01.md",
+    "zjdcjs/ZJDCjs.md",
+    "README.md",
     "未命名.canvas",
     "2023-10-04.md"
   ]
